@@ -24,9 +24,13 @@ Aplicativo Android desenvolvido em Kotlin para exibir informações atualizadas 
 
 
 Tela antes da atualização do valor através do botão "atualizar".
+
+
 ![image](https://github.com/user-attachments/assets/73d27353-f84e-4623-b085-19d93936925b)
 
 Tela depois da atualização do valor.
+
+
 ![image](https://github.com/user-attachments/assets/83c69662-bc27-4fe5-955f-73607195c563)
 
 
@@ -61,3 +65,10 @@ class Ticker(
    git clone https://github.com/seuusuario/android-crypto-monitor.git
 
    ```
+2. Abra o projeto no Android Studio.
+
+3. Aguarde o carregamento do Gradle e as dependências.
+
+4. Execute em um emulador ou dispositivo físico com Android 5.0+.
+
+
